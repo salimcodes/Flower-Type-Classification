@@ -6,8 +6,8 @@ The classification report of the algorithm shows that the model has a 98% precis
 3.	Iris-Virginica
 
 
-#The dataset contains 150 training sets with 4 attributes (i.e. Sepal Width, Sepal Length, Petal Width, Petal Length)
+# The dataset contains 150 training sets with 4 attributes (i.e. Sepal Width, Sepal Length, Petal Width, Petal Length)
 
-The CBF.png file shows a graphical representation of the correlation between the features. 
-The GOTVVPV.png file shows a graph of the true value versus predicted values
+_The CBF.png file shows a graphical representation of the correlation between the features_ 
+_The GOTVVPV.png file shows a graph of the true value versus predicted values_
 The algorithm predicts with a 97% accuracy (F1 Score)
